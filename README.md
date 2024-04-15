@@ -6,13 +6,11 @@ A CSIT 121 project designed for car Insurance companies to manage their client r
 ## Demo
 
 Please find the .Jar file located in /dist folder.
-
-![1](https://github.com/29ayx/insurance/assets/63330200/e32ce545-4b7c-427c-92a9-fce4c9f3ffa3)
-![2](https://github.com/29ayx/insurance/assets/63330200/c42c55a0-3a9c-4ac0-b91b-e415ae94babf)
-![3](https://github.com/29ayx/insurance/assets/63330200/6b73b119-c076-442f-b2b5-de008bf43314)
-![4](https://github.com/29ayx/insurance/assets/63330200/aaa9e4d4-b15e-4e04-9f43-b057ee3e5aab)
-![5](https://github.com/29ayx/insurance/assets/63330200/6df590c8-212b-426d-a1ad-af93b2b4ecdb)
-
+![1](https://github.com/29ayx/insurance/assets/63330200/cf803029-a024-46e7-acdb-fcb0b6032aa2)
+![2](https://github.com/29ayx/insurance/assets/63330200/3c8bb07d-cc5d-4863-bd4a-5d0f5529f518)
+![3](https://github.com/29ayx/insurance/assets/63330200/7180cbd0-ed39-4c1e-80b0-41c1878f38af)
+![4](https://github.com/29ayx/insurance/assets/63330200/4e8d3789-3bfe-418f-aef0-414c97c63fff)
+![5](https://github.com/29ayx/insurance/assets/63330200/0fc7bbf5-4b13-4793-bd51-0a8743d466bd)
 
 ## Authors
 
